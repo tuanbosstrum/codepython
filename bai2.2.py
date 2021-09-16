@@ -10,3 +10,4 @@ else:
 #n = 10
 #n = "Chuỗi"
 print(n)
+n = 10
