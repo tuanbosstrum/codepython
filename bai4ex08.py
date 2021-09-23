@@ -6,4 +6,4 @@ while tong_tien <= 100000:
     so_nguoi_dong_gop +=1
 else:
     print("Đã có đủ tiền mời mọi người uống cà phê, quyên gì nữa!")
-print("Đã quyên góp được{} từ {} người!".format(tong_tien, so_nguoi_dong_gop))
+print("Sao kê: Đã quyên góp được{} từ {} người!".format(tong_tien, so_nguoi_dong_gop))
